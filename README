@@ -1,4 +1,0 @@
-I have fixed previous problems. It can work Now.
-Changes:
-1. Puting getContext to the last. In previous version, I getContext first and then save memory region.
-2. Changing ckpt img file layout so that I can save and restore memory region easier. 
